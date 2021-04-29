@@ -1,0 +1,14 @@
+C:\Users\钟同学\source\repos\Work1\Work1\bin\Debug\Work1.exe.config
+C:\Users\钟同学\source\repos\Work1\Work1\bin\Debug\Work1.exe
+C:\Users\钟同学\source\repos\Work1\Work1\bin\Debug\Work1.pdb
+C:\Users\钟同学\source\repos\Work1\Work1\obj\Debug\Work1.csprojAssemblyReference.cache
+C:\Users\钟同学\source\repos\Work1\Work1\obj\Debug\Work1.csproj.CoreCompileInputs.cache
+C:\Users\钟同学\source\repos\Work1\Work1\obj\Debug\Work1.exe
+C:\Users\钟同学\source\repos\Work1\Work1\obj\Debug\Work1.pdb
+C:\Users\钟同学\source\repos\homework1\Work1\Work1\bin\Debug\Work1.exe.config
+C:\Users\钟同学\source\repos\homework1\Work1\Work1\bin\Debug\Work1.exe
+C:\Users\钟同学\source\repos\homework1\Work1\Work1\bin\Debug\Work1.pdb
+C:\Users\钟同学\source\repos\homework1\Work1\Work1\obj\Debug\Work1.csprojAssemblyReference.cache
+C:\Users\钟同学\source\repos\homework1\Work1\Work1\obj\Debug\Work1.csproj.CoreCompileInputs.cache
+C:\Users\钟同学\source\repos\homework1\Work1\Work1\obj\Debug\Work1.exe
+C:\Users\钟同学\source\repos\homework1\Work1\Work1\obj\Debug\Work1.pdb
