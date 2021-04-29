@@ -1,0 +1,14 @@
+C:\Users\钟同学\source\repos\Class2Practice1\Class2Practice1\bin\Debug\Class2Practice1.exe.config
+C:\Users\钟同学\source\repos\Class2Practice1\Class2Practice1\bin\Debug\Class2Practice1.exe
+C:\Users\钟同学\source\repos\Class2Practice1\Class2Practice1\bin\Debug\Class2Practice1.pdb
+C:\Users\钟同学\source\repos\Class2Practice1\Class2Practice1\obj\Debug\Class2Practice1.csprojAssemblyReference.cache
+C:\Users\钟同学\source\repos\Class2Practice1\Class2Practice1\obj\Debug\Class2Practice1.csproj.CoreCompileInputs.cache
+C:\Users\钟同学\source\repos\Class2Practice1\Class2Practice1\obj\Debug\Class2Practice1.exe
+C:\Users\钟同学\source\repos\Class2Practice1\Class2Practice1\obj\Debug\Class2Practice1.pdb
+C:\Users\钟同学\source\repos\homework2\Class2Practice1\Class2Practice1\bin\Debug\Class2Practice1.exe.config
+C:\Users\钟同学\source\repos\homework2\Class2Practice1\Class2Practice1\bin\Debug\Class2Practice1.exe
+C:\Users\钟同学\source\repos\homework2\Class2Practice1\Class2Practice1\bin\Debug\Class2Practice1.pdb
+C:\Users\钟同学\source\repos\homework2\Class2Practice1\Class2Practice1\obj\Debug\class2Practice1.csprojAssemblyReference.cache
+C:\Users\钟同学\source\repos\homework2\Class2Practice1\Class2Practice1\obj\Debug\class2Practice1.csproj.CoreCompileInputs.cache
+C:\Users\钟同学\source\repos\homework2\Class2Practice1\Class2Practice1\obj\Debug\Class2Practice1.exe
+C:\Users\钟同学\source\repos\homework2\Class2Practice1\Class2Practice1\obj\Debug\Class2Practice1.pdb

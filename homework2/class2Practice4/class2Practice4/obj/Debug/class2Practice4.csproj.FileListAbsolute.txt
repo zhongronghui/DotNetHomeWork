@@ -1,0 +1,7 @@
+C:\Users\钟同学\source\repos\class2Practice4\class2Practice4\bin\Debug\class2Practice4.exe.config
+C:\Users\钟同学\source\repos\class2Practice4\class2Practice4\bin\Debug\class2Practice4.exe
+C:\Users\钟同学\source\repos\class2Practice4\class2Practice4\bin\Debug\class2Practice4.pdb
+C:\Users\钟同学\source\repos\class2Practice4\class2Practice4\obj\Debug\class2Practice4.csprojAssemblyReference.cache
+C:\Users\钟同学\source\repos\class2Practice4\class2Practice4\obj\Debug\class2Practice4.csproj.CoreCompileInputs.cache
+C:\Users\钟同学\source\repos\class2Practice4\class2Practice4\obj\Debug\class2Practice4.exe
+C:\Users\钟同学\source\repos\class2Practice4\class2Practice4\obj\Debug\class2Practice4.pdb
